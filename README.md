@@ -167,3 +167,11 @@
 ![](./images/image-20250315150324028.png)
 
 ![](./images/image-20250315150345827.png)
+
+## 欢迎交流
+- **欢迎您加入社区交流分享**
+  - **微信交流群**
+  <img style="margin: 20px 20px 20px 0;" src="./images/us.png" width="300" height="300"/>
+
+  - **QQ交流群：**
+  <img style="margin: 20px 20px 20px 0;" src="./images/qq.png" width="300" height="300"/>
